@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1"},
+      "fields": {
+        "title": "queen panel bed",
+        "price": 10.99,
+        "image": { "fields": { "file": {
+          "url": "./IMAGE/image1.webp"
+        }}
+      }
+      }
+    },
+    {
+      "sys": { "id": "2"},
+      "fields": {
+        "title": "king panel bed",
+        "price": 12.99,
+        "image": { "fields": { "file": {
+          "url": "https://www.google.com/imgres?q=airbnb&imgurl=https%3A%2F%2Fnews.airbnb.com%2Fwp-content%2Fuploads%2Fsites%2F4%2F2019%2F06%2FPJM020719Q202_Luxe_WanakaNZ_LivingRoom_0264-LightOn_R1.jpg%3Ffit%3D3200%252C2133&imgrefurl=https%3A%2F%2Fnews.airbnb.com%2Fairbnb-luxe-reimagines-luxury-travel%2F&docid=RgLalzqcWZH-mM&tbnid=2JsbeUwYULPeSM&vet=12ahUKEwjgmK3Rgb-FAxX9WkEAHbegC5QQM3oECBMQAA..i&w=3200&h=2133&hcb=2&ved=2ahUKEwjgmK3Rgb-FAxX9WkEAHbegC5QQM3oECBMQAA"
+        }}
+      }
+      }
+    },
+    {
+      "sys": { "id": "3"},
+      "fields": {
+        "title": "single panel bed",
+        "price": 23.99,
+        "image": { "fields": { "file": {
+          "url": "./IMAGE/image3.jpg"
+        }}
+      }
+      }
+    },
+    {
+      "sys": { "id": "4"},
+      "fields": {
+        "title": "twin panel bed",
+        "price": 17.99,
+        "image": { "fields": { "file": {
+          "url": "./IMAGE/image4.jpg"
+        }}
+      }
+      }
+    },
+    {
+      "sys": { "id": "5"},
+      "fields": {
+        "title": "dresser",
+        "price": 12.99,
+        "image": { "fields": { "file": {
+          "url": "./IMAGE/image5.jpg"
+        }}
+      }
+      }
+    },
+    {
+      "sys": { "id": "6"},
+      "fields": {
+        "title": "fresh",
+        "price": 21.99,
+        "image": { "fields": { "file": {
+          "url": "./IMAGE/image6.webp"
+        }}
+      }
+      }
+    }
+    
+  ]
+}
